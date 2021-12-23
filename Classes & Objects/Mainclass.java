@@ -1,3 +1,7 @@
+// Title : Classes,Object and method for beginners
+// Name of coder : Shubham Athawane
+// Email: Shubhamathawane02@gmail.com   
+// Date: 23-12-21
 
 public class Mainclass {
     public static void main(String[] args)
@@ -28,3 +32,10 @@ class Person {
         System.out.println(name + " is Eating ");
     }
 }
+
+
+// Output :
+// Age : 23 Name :Shubham
+// Age : 30 Name :pintu
+// Shubham is walking
+// pintu is Eating
